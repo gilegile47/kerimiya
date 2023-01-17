@@ -1,0 +1,1 @@
+jQuery.ajax({type:"GET",url:kL10n.ajax_url,data:"postviews_id="+viewsL10n.post_id+"&action=keremiya_increment_views",cache:!1});
